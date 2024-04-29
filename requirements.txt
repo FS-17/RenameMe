@@ -1,0 +1,4 @@
+pytz
+exifread
+argparse
+pypiwin32
